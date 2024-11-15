@@ -1,0 +1,7 @@
+legged_rl/legged_robot/yesense_ros/rosserial
+/home/ti5robot/ti5_ws_dh/devel/.private/serial/cmake.lock /home/ti5robot/ti5_ws_dh/devel/./cmake.lock
+/home/ti5robot/ti5_ws_dh/devel/.private/serial/share/serial/cmake/serialConfig.cmake /home/ti5robot/ti5_ws_dh/devel/share/serial/cmake/serialConfig.cmake
+/home/ti5robot/ti5_ws_dh/devel/.private/serial/share/serial/cmake/serialConfig-version.cmake /home/ti5robot/ti5_ws_dh/devel/share/serial/cmake/serialConfig-version.cmake
+/home/ti5robot/ti5_ws_dh/devel/.private/serial/lib/libserial.so /home/ti5robot/ti5_ws_dh/devel/lib/libserial.so
+/home/ti5robot/ti5_ws_dh/devel/.private/serial/lib/serial/serial_example /home/ti5robot/ti5_ws_dh/devel/lib/serial/serial_example
+/home/ti5robot/ti5_ws_dh/devel/.private/serial/lib/pkgconfig/serial.pc /home/ti5robot/ti5_ws_dh/devel/lib/pkgconfig/serial.pc

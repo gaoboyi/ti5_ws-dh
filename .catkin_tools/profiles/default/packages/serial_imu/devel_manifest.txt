@@ -1,0 +1,10 @@
+legged_rl/legged_robot/ahrs_imu_ros1/src
+/home/ti5robot/ti5_ws_dh/devel/.private/serial_imu/cmake.lock /home/ti5robot/ti5_ws_dh/devel/./cmake.lock
+/home/ti5robot/ti5_ws_dh/devel/.private/serial_imu/share/serial_imu/cmake/serial_imuConfig.cmake /home/ti5robot/ti5_ws_dh/devel/share/serial_imu/cmake/serial_imuConfig.cmake
+/home/ti5robot/ti5_ws_dh/devel/.private/serial_imu/share/serial_imu/cmake/serial_imu-msg-extras.cmake /home/ti5robot/ti5_ws_dh/devel/share/serial_imu/cmake/serial_imu-msg-extras.cmake
+/home/ti5robot/ti5_ws_dh/devel/.private/serial_imu/share/serial_imu/cmake/serial_imu-msg-paths.cmake /home/ti5robot/ti5_ws_dh/devel/share/serial_imu/cmake/serial_imu-msg-paths.cmake
+/home/ti5robot/ti5_ws_dh/devel/.private/serial_imu/share/serial_imu/cmake/serial_imuConfig-version.cmake /home/ti5robot/ti5_ws_dh/devel/share/serial_imu/cmake/serial_imuConfig-version.cmake
+/home/ti5robot/ti5_ws_dh/devel/.private/serial_imu/share/roseus/ros/serial_imu/manifest.l /home/ti5robot/ti5_ws_dh/devel/share/roseus/ros/serial_imu/manifest.l
+/home/ti5robot/ti5_ws_dh/devel/.private/serial_imu/lib/serial_imu/serial_imu /home/ti5robot/ti5_ws_dh/devel/lib/serial_imu/serial_imu
+/home/ti5robot/ti5_ws_dh/devel/.private/serial_imu/lib/python3/dist-packages/serial_imu/__init__.py /home/ti5robot/ti5_ws_dh/devel/lib/python3/dist-packages/serial_imu/__init__.py
+/home/ti5robot/ti5_ws_dh/devel/.private/serial_imu/lib/pkgconfig/serial_imu.pc /home/ti5robot/ti5_ws_dh/devel/lib/pkgconfig/serial_imu.pc

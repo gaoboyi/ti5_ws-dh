@@ -1,0 +1,5 @@
+legged_rl/legged_robot/legged_ti5_description
+/home/ti5robot/ti5_ws_dh/devel/.private/legged_ti5_description/cmake.lock /home/ti5robot/ti5_ws_dh/devel/./cmake.lock
+/home/ti5robot/ti5_ws_dh/devel/.private/legged_ti5_description/share/legged_ti5_description/cmake/legged_ti5_descriptionConfig.cmake /home/ti5robot/ti5_ws_dh/devel/share/legged_ti5_description/cmake/legged_ti5_descriptionConfig.cmake
+/home/ti5robot/ti5_ws_dh/devel/.private/legged_ti5_description/share/legged_ti5_description/cmake/legged_ti5_descriptionConfig-version.cmake /home/ti5robot/ti5_ws_dh/devel/share/legged_ti5_description/cmake/legged_ti5_descriptionConfig-version.cmake
+/home/ti5robot/ti5_ws_dh/devel/.private/legged_ti5_description/lib/pkgconfig/legged_ti5_description.pc /home/ti5robot/ti5_ws_dh/devel/lib/pkgconfig/legged_ti5_description.pc
